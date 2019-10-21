@@ -8,3 +8,5 @@ Tatsuya Yokota, Kazuya Kawai, Muneyuki Sakata, Yuichi Kimura, Hidekata Hontani.<
 International Conference on Computer Vision (ICCV), 2019.
 
 First, please download a file ("https://drive.google.com/open?id=1khMgXQ-c3imWFWUx2n3vuvb56jE_kCWx"), and put this file on the same folda of the code.
+
+This code was written by Tatsuya Yokota.
